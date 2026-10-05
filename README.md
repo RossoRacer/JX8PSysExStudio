@@ -4,8 +4,7 @@ A small macOS app for the Roland JX-8P with two tools, chosen on launch:
 
 1. **Random Bank** — generates 32 brand-new patches from random numbers and
    saves them as one factory-format 32-patch SysEx bank file.
-2. **Morph Presets** — drag and drop two JX-8P patches (or a factory bank,
-   picking one patch out of it), blend them together with a slider, and
+2. **Morph Presets** — drag and drop two JX-8P/JX-10/MKS-70 patches, blend them together with a slider, and
    save the result as a new single patch.
 
 Both tools save with an auto-generated random filename (e.g.
