@@ -1,3 +1,4 @@
+
 # JX-8P SysEx Studio
 
 A small macOS app for the Roland JX-8P with two tools, chosen on launch:
@@ -10,6 +11,8 @@ A small macOS app for the Roland JX-8P with two tools, chosen on launch:
 Both tools save with an auto-generated random filename (e.g.
 `Solar-Drift-4821.syx`), via a normal macOS save panel so you can pick where
 it goes.
+
+<img width="968" height="620" alt="Image2" src="https://github.com/user-attachments/assets/5b7f933f-4e63-40b8-af57-ba0b6ff3bcbc" />
 
 ## Opening the project
 
