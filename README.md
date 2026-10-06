@@ -73,7 +73,13 @@ JX8PSysExStudio/
   Views/                   SwiftUI screens (mode picker, random bank,
                             morph, drag-and-drop zone)
 ```
+## 🚀 Getting Started
 
+### How to Clone and Run
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/RossoRacer/JX8PSysExStudio.git](https://github.com/RossoRacer/JX8PSysExStudio.git)
+   
 ## Notes / possible next steps
 
 - Random patches are uniform-random across the full 0–127 range for every
