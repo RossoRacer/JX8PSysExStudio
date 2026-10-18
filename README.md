@@ -100,3 +100,6 @@ JX8PSysExStudio/
 - If you'd like the app to also talk to a MIDI interface directly (send a
   generated/morphed patch straight to your JX-8P instead of just saving a
   file), that would be a follow-up step using CoreMIDI.
+
+
+Co-authored-by: Claude <noreply@anthropic.com>
