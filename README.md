@@ -101,5 +101,6 @@ JX8PSysExStudio/
   generated/morphed patch straight to your JX-8P instead of just saving a
   file), that would be a follow-up step using CoreMIDI.
 
+This project is not affiliated with or endorsed by Roland or its owners.
 
 Co-authored-by: Claude <noreply@anthropic.com>
